@@ -1,8 +1,7 @@
 Melhor comida?
 
-Pizza:      : #1
+Pizza:      :
 Hamburguer  : #
-Sushi       : ##
+Sushi       : #
 
 Assinatura:
-laura garay
