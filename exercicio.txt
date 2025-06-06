@@ -2,6 +2,7 @@ Melhor comida?
 
 Pizza:      :
 Hamburguer  :
-Sushi       :
+Sushi       : #
 
 Assinatura:
+Jane Doe
