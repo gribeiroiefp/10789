@@ -1,9 +1,10 @@
 Melhor comida?
 
-Pizza:      :
+Pizza:      : #
 Hamburguer  : #
 Sushi       : #
 
 Assinatura:
 Jane Doe
 John Doe
+Guilherme Ribeiro
