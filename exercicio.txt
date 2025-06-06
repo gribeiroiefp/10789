@@ -1,8 +1,10 @@
 Melhor comida?
 
 Pizza:      :
-Hamburguer  :
-Sushi       : #
+Hamburguer  : #
+Sushi       : ##
 
 Assinatura:
 Jane Doe
+Jhon Doe
+Moab Filho
