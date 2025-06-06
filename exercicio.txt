@@ -2,8 +2,9 @@ Melhor comida?
 
 Pizza:      :
 Hamburguer  : #
-Sushi       : #
+Sushi       : ##
 
 Assinatura:
 Jane Doe
 John Doe
+Raquel Baiadori
