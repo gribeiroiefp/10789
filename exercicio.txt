@@ -1,8 +1,9 @@
 Melhor comida?
 
-Pizza:      : 
+Pizza:      :
 Hamburguer  : #
-Sushi       :
+Sushi       : #
 
 Assinatura:
+Jane Doe
 John Doe
