@@ -1,9 +1,10 @@
 Melhor comida?
 
 Pizza:      :
-Hamburguer  : #
+Hamburguer  : ##
 Sushi       : #
 
 Assinatura:
 Jane Doe
 John Doe
+Carlos Coimbra
