@@ -1,7 +1,8 @@
 Melhor comida?
 
-Pizza:      :
-Hamburguer  :
+Pizza:      : 
+Hamburguer  : #
 Sushi       :
 
 Assinatura:
+John Doe
